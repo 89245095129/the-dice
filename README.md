@@ -26,6 +26,7 @@ Dice.jsx
 App.jsx
 App.css
 
+text
 
 ## Установка и запуск
 
@@ -33,7 +34,6 @@ App.css
 # Установка зависимостей
 npm install
 
-Приложение будет доступно по адресу: http://localhost:3000
-
 # Запуск в development режиме
 npm start
+Приложение будет доступно по адресу: http://localhost:3000
